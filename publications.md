@@ -13,7 +13,6 @@ You can also browse my  <a href="https://scholar.google.com/citations?user=jFLqe
     <div class="media-body">
        <p class="media-heading">
           <strong>Body Weight Analysis from Human Body Images</strong><br />
-</strong><br />
           <b>Min Jiang</b>, Guodong Guo<br />
           IEEE Transactions on Information Forensics and Security, 2019 <br />
           <a href="https://ieeexplore.ieee.org/abstract/document/8666768">[PDF]</a> 
