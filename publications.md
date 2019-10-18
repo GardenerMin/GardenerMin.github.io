@@ -17,17 +17,6 @@ You can also browse my  <a href="https://scholar.google.com/citations?user=jFLqe
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Body Weight Analysis from Human Body Images</strong><br />
-          <b>Min Jiang</b>, Guodong Guo<br />
-           <br />
-          <a href="https://ieeexplore.ieee.org/abstract/document/8666768">[PDF]</a> 
-          <br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
           <strong>On visual BMI analysis from Facial Images</strong><br />
           <b>Min Jiang</b>, Yuanyuan Shang, Guodong Guo<br />
           Image and Vision Computing, 2019<br />
