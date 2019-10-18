@@ -6,6 +6,11 @@ title: Publications
 You can also browse my  <a href="https://scholar.google.com/citations?user=jFLqewoAAAAJ&hl=en">Google Scholar</a>.
 <br />
 
+## 2019 
+<img src="../img/conference-paper.png" height="20px">
+Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava Tintarev and Claudia Hauff, 
+*Annotating Credibility: Identifying and Mitigating Bias in Credibility Datasets*, 
+
 <h3>
     <a name='2019'></a> 2019
 </h3>
