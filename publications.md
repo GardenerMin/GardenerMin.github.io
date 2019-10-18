@@ -7,9 +7,9 @@ You can also browse my  <a href="https://scholar.google.com/citations?user=jFLqe
 <br />
 
 ## 2019 
-<img src="../img/conference-paper.png" height="20px">
-Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava Tintarev and Claudia Hauff, 
-*Annotating Credibility: Identifying and Mitigating Bias in Credibility Datasets*, 
+<img src="../img/journal-article.png" height="20px">
+**Min Jiang**, Guodong Guo. *Body Weight Analysis from Human Body Images*, IEEE Transactions on Information Forensics and Security, 2019. [[PDF Preprint&#8594;]](../documents/publications/Body_BMI.pdf) [[IEEE journal&#8594;]](https://ieeexplore.ieee.org/abstract/document/8666768)
+
 
 <h3>
     <a name='2019'></a> 2019
@@ -19,7 +19,7 @@ Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava 
        <p class="media-heading">
           <strong>Body Weight Analysis from Human Body Images</strong><br />
           <b>Min Jiang</b>, Guodong Guo<br />
-          IEEE Transactions on Information Forensics and Security, 2019 <br />
+           <br />
           <a href="https://ieeexplore.ieee.org/abstract/document/8666768">[PDF]</a> 
           <br />
        </p>
