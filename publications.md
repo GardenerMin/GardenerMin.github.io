@@ -17,6 +17,9 @@ You can also browse my  <a href="https://scholar.google.com/citations?user=jFLqe
 **Min Jiang**, Bingyi Cui, Yufeng Yu, Zhicheng Cao. *DM-free Curvelet based Denoising for Astronomical Single Pulses Detection*, IEEE ACCESS, 2019. [[Open access PDF &#8594;]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8788523)
 
 <img src="../img/journal-article.png" height="20px">
+Yufeng Yu, Qiangchang Wang, **Min Jiang**. *Discriminative Common Feature Subspace Learning for Age-invariant Face Recognition*, IET Biometrics, 2019. [[IET journal &#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-bmt.2019.0104)
+
+<img src="../img/journal-article.png" height="20px">
 Yufeng Yu, Guoxia Xu, **Min Jiang**, Hu Zhu, Daoqing Dai, Hong Yan. *Joint Transformation Learning via L2,1-Norm Metric for Robust Graph Matching*, IEEE Transactions on Cybernetics, 2019. [[IEEE journal &#8594;]](https://ieeexplore.ieee.org/abstract/document/8704989)
 
 <img src="../img/journal-article.png" height="20px">
