@@ -8,6 +8,10 @@ You can also browse my  <a href="https://scholar.google.com/citations?user=jFLqe
 
 ## 2019 
 <img src="../img/journal-article.png" height="20px">
+**Min Jiang**, Guodong Guo. *A Computational Approach to Body Mass Index Estimation from Dressed People in 3D Space*, IET Image Processing, 2020. [[IET journal&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.1170)
+
+## 2019 
+<img src="../img/journal-article.png" height="20px">
 **Min Jiang**, Guodong Guo. *Body Weight Analysis from Human Body Images*, IEEE Transactions on Information Forensics and Security, 2019. [[PDF Preprint&#8594;]](../documents/publications/Body_BMI.pdf) [[IEEE journal&#8594;]](https://ieeexplore.ieee.org/abstract/document/8666768)
 
 <img src="../img/journal-article.png" height="20px">
