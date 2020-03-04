@@ -6,7 +6,7 @@ title: Publications
 You can also browse my  <a href="https://scholar.google.com/citations?user=jFLqewoAAAAJ&hl=en">Google Scholar</a>.
 <br />
 
-## 2019 
+## 2020 
 <img src="../img/journal-article.png" height="20px">
 **Min Jiang**, Guodong Guo. *A Computational Approach to Body Mass Index Estimation from Dressed People in 3D Space*, IET Image Processing, 2020. [[IET journal&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.1170)
 
