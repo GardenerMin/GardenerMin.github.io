@@ -8,6 +8,9 @@ You can also browse my  <a href="https://scholar.google.com/citations?user=jFLqe
 
 ## 2020 
 <img src="../img/journal-article.png" height="20px">
+**Min Jiang**, Guodong Guo, Guowang Mu. *Visual BMI estimation from face images using a label distribution based method*, Computer Vision and Image Understanding, 2020. [[Elsevier journal&#8594;]](https://www.sciencedirect.com/science/article/pii/S107731422030059X)
+
+<img src="../img/journal-article.png" height="20px">
 **Min Jiang**, Guodong Guo. *A Computational Approach to Body Mass Index Estimation from Dressed People in 3D Space*, IET Image Processing, 2020. [[IET journal&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.1170)
 
 ## 2019 
